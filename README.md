@@ -1,5 +1,5 @@
 # Android UI Animation Libraries
-A curated list of Swift libraries, UI components and custom animations developed by [@ramotion](https://twitter.com/Ramotion)
+A curated list of Android libraries, UI components and custom animations developed by [@ramotion](https://github.com/RamotionDev)
 
 ## Content
 
