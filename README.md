@@ -12,6 +12,15 @@ A slider widget with a popup bubble displaying the precise value selected.
 <img src="https://github.com/Ramotion/android-animation-ui-libraires/blob/master/gifs/fluid_slider.gif" width="400" height="300" /></a>
 <br><br/>
 
+[Folding Cell](https://github.com/Ramotion/folding-cell-android)
+
+FoldingCell is a material design expanding content cell inspired by folding paper material.
+<a href="https://github.com/Ramotion/folding-cell-android">
+  
+  
+<img src="https://github.com/Ramotion/android-animation-ui-libraires/blob/master/gifs/folding_cell.gif" width="400" height="300" /></a>
+<br><br/>
+
 [Garland View](https://github.com/Ramotion/garland-view-android)
 
 Garland View seamlessly transitions between multiple lists of content
@@ -21,14 +30,7 @@ Garland View seamlessly transitions between multiple lists of content
 <img src="https://github.com/Ramotion/android-animation-ui-libraires/blob/master/gifs/garland_view.gif" width="400" height="300" /></a>
 <br><br/>
 
-[Folding Cell](https://github.com/Ramotion/folding-cell-android)
 
-FoldingCell is a material design expanding content cell inspired by folding paper material.
-<a href="https://github.com/Ramotion/folding-cell-android">
-  
-  
-<img src="https://github.com/Ramotion/android-animation-ui-libraires/blob/master/gifs/folding_cell.gif" width="400" height="300" /></a>
-<br><br/>
 
 [Paper Onboarding](https://github.com/Ramotion/paper-onboarding-android)
 
