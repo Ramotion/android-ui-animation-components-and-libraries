@@ -9,7 +9,7 @@ A slider widget with a popup bubble displaying the precise value selected.
 <a href="https://github.com/Ramotion/fluid-slider-android">
   
   
-<img src="https://github.com/Ramotion/android-animation-ui-libraires/blob/master/gifs/fluid_slider.gif" width="400" height="300" /></a>
+<img src="https://github.com/Ramotion/android-animation-ui-libraires/blob/master/gifs/fluid_slider.gif" width="400" height="366" /></a>
 <br><br/>
 
 [Folding Cell](https://github.com/Ramotion/folding-cell-android)
@@ -81,7 +81,7 @@ Cardslider is a material design UI controller that allows you to swipe through c
 
 ## Licence
 
-All the swift libraries released under the MIT license.
+All the Android libraries released under the MIT license.
 See [LICENSE](./LICENSE) for details.
 
 ## Follow us for the latest updates<br>
