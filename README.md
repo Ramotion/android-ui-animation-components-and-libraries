@@ -9,7 +9,7 @@ A slider widget with a popup bubble displaying the precise value selected.
 <a href="https://github.com/Ramotion/fluid-slider-android">
   
   
-<img src="https://github.com/Ramotion/android-animation-ui-libraires/blob/master/gifs/fluid_slider.gif" width="400" height="366" /></a>
+<img src="https://github.com/Ramotion/android-animation-ui-libraires/blob/master/gifs/fluid_slider.gif" width="400" height="300" /></a>
 <br><br/>
 
 [Folding Cell](https://github.com/Ramotion/folding-cell-android)
