@@ -77,7 +77,10 @@ Cardslider is a material design UI controller that allows you to swipe through c
 <img src="https://github.com/Ramotion/android-animation-ui-libraires/blob/master/gifs/card_slider.gif" width="400" height="300" /></a>
 <br><br/>
 
+## Check out other lists of our UI libraries
 
+<a href="https://github.com/Ramotion/swift-ui-animation-components-libraries"> 
+<img src="https://github.com/Ramotion/android-ui-animation-components-libraries/blob/master/gifs/swift.png" width="178" height="81"></a>
 
 ## Licence
 
