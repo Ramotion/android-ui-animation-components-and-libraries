@@ -87,6 +87,15 @@ Cardslider is a material design UI controller that allows you to swipe through c
 All the Android libraries released under the MIT license.
 See [LICENSE](./LICENSE) for details.
 
+## Get the Showroom App for Android to give it a try
+Try this UI component and more like this in our Android app. Contact us if interested.
+
+<a href="https://play.google.com/store/apps/details?id=com.ramotion.showroom" >
+<img src="https://github.com/Ramotion/android-ui-animation-components-libraries/blob/master/gifs/google_badge.png" width="114" height="34"></a>
+
+<a href="https://dev.ramotion.com/?utm_source=gthb&utm_medium=special&utm_campaign=android-libraries-contact-us">
+<img src="https://github.com/ramotion/gliding-collection/raw/master/contact_our_team@2x.png" width="187" height="34"></a>
+
 ## Follow us for the latest updates<br>
 
 <!-- Place this tag where you want the button to render. -->
