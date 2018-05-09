@@ -98,7 +98,7 @@ All the Android libraries released under the MIT license.
 See [LICENSE](./LICENSE) for details.
 
 ## Get the Showroom App for Android to give it a try
-Try this UI component and more like this in our Android app. Contact us if interested.
+Try this UI components and more like this in our Android app. Contact us if interested.
 
 <a href="https://play.google.com/store/apps/details?id=com.ramotion.showroom" >
 <img src="https://github.com/Ramotion/android-ui-animation-components-libraries/blob/master/gifs/google_badge.png" width="114" height="34"></a>
