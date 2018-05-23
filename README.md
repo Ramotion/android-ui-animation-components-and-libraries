@@ -106,7 +106,7 @@ Try this UI components and more like this in our Android app. Contact us if inte
 <a href="https://dev.ramotion.com/?utm_source=gthb&utm_medium=special&utm_campaign=android-libraries-contact-us">
 <img src="https://github.com/ramotion/gliding-collection/raw/master/contact_our_team@2x.png" width="187" height="34"></a>
 
-## Follow us for the latest updates:<br>
+## Follow us for the latest updates<br>
 
 <!-- Place this tag where you want the button to render. -->
 <a href="https://goo.gl/rPFpid" >
