@@ -1,5 +1,5 @@
 # Android UI Animation Libraries
-A curated list of Android libraries, UI components and custom animations developed by [@RamotionDev](https://github.com/RamotionDev)
+A curated list of Android libraries, UI components and custom animations developed by [@Ramotion](https://github.com/RamotionDev)
 
 ## Content
 
