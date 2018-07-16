@@ -24,7 +24,7 @@ A slider widget with a popup bubble displaying the precise value selected.
 
 [Folding Cell](https://github.com/Ramotion/folding-cell-android)
 
-FoldingCell is a material design expanding content cell inspired by folding paper material.
+Material design expanding content cell inspired by folding paper material.
 <a href="https://github.com/Ramotion/folding-cell-android">
   
   
