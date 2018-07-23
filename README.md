@@ -53,7 +53,7 @@ PaperOnboarding is a material design slider.
 
 [Direct Select](https://github.com/Ramotion/direct-select-android)
 
-DirectSelect is a selection widget with an ethereal, full-screen modal popup displaying the available choices when the widget is interact with.
+A selection widget with an ethereal, full-screen modal popup displaying the available choices when the widget is interact with.
 <a href="https://github.com/Ramotion/direct-select-android">
   
   
