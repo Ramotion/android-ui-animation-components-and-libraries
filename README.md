@@ -62,7 +62,7 @@ A selection widget with an ethereal, full-screen modal popup displaying the avai
 
 [Circle Menu](https://github.com/Ramotion/circle-menu-android)
 
-CircleMenu is a simple, elegant UI menu with a circular layout and material design animations.
+A simple, elegant UI menu with a circular layout and material design animations.
 <a href="https://github.com/Ramotion/circle-menu-android">
   
   
