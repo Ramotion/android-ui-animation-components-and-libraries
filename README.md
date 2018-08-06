@@ -5,7 +5,7 @@ A curated list of Android libraries, UI components and custom animations develop
 
 [Navigation Toolbar](https://github.com/Ramotion/navigation-toolbar-android)
 
-Navigation toolbar is a slide-modeled UI navigation controller. 
+A slide-modeled UI navigation controller. 
 <a href="https://github.com/Ramotion/navigation-toolbar-android">
   
   
