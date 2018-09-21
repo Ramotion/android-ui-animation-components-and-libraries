@@ -108,6 +108,5 @@ Try this UI components and more like this in our Android app. Contact us if inte
 
 ## Follow us for the latest updates:<br>
 
-<!-- Place this tag where you want the button to render. -->
 <a href="https://goo.gl/rPFpid" >
 <img src="https://i.imgur.com/ziSqeSo.png/" width="156" height="28"></a>
