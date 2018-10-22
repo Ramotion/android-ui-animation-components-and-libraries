@@ -33,7 +33,7 @@ Material design expanding content cell inspired by folding paper material.
 
 [Garland View](https://github.com/Ramotion/garland-view-android)
 
-Garland View seamlessly transitions between multiple lists of content
+Garland View seamlessly transitions between multiple lists of content.
 <a href="https://github.com/Ramotion/garland-view-android">
   
   
