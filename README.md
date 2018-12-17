@@ -5,7 +5,7 @@ A curated list of Android libraries, UI components and custom animations develop
 
 [Navigation Toolbar](https://github.com/Ramotion/navigation-toolbar-android)
 
-A slide-modeled UI navigation controller. 
+A slide-modeled UI navigation controller 
 <a href="https://github.com/Ramotion/navigation-toolbar-android">
   
   
@@ -15,7 +15,7 @@ A slide-modeled UI navigation controller.
 
 [Fluid Slider](https://github.com/Ramotion/fluid-slider-android)
 
-A slider widget with a popup bubble displaying the precise value selected. 
+A slider widget with a popup bubble displaying the precise value selected 
 <a href="https://github.com/Ramotion/fluid-slider-android">
   
   
@@ -24,7 +24,7 @@ A slider widget with a popup bubble displaying the precise value selected.
 
 [Folding Cell](https://github.com/Ramotion/folding-cell-android)
 
-Material design expanding content cell inspired by folding paper material.
+Material design expanding content cell inspired by folding paper material
 <a href="https://github.com/Ramotion/folding-cell-android">
   
   
@@ -33,7 +33,7 @@ Material design expanding content cell inspired by folding paper material.
 
 [Garland View](https://github.com/Ramotion/garland-view-android)
 
-Garland View seamlessly transitions between multiple lists of content.
+Garland View seamlessly transitions between multiple lists of content
 <a href="https://github.com/Ramotion/garland-view-android">
   
   
@@ -53,7 +53,7 @@ PaperOnboarding is a material design slider.
 
 [Direct Select](https://github.com/Ramotion/direct-select-android)
 
-A selection widget with an ethereal, full-screen modal popup displaying the available choices when the widget is interact with.
+A selection widget with an ethereal, full-screen modal popup displaying the available choices when the widget is interact with
 <a href="https://github.com/Ramotion/direct-select-android">
   
   
@@ -62,7 +62,7 @@ A selection widget with an ethereal, full-screen modal popup displaying the avai
 
 [Circle Menu](https://github.com/Ramotion/circle-menu-android)
 
-A simple, elegant UI menu with a circular layout and material design animations.
+A simple, elegant UI menu with a circular layout and material design animations
 <a href="https://github.com/Ramotion/circle-menu-android">
   
   
@@ -71,7 +71,7 @@ A simple, elegant UI menu with a circular layout and material design animations.
 
 [Expanding Collection](https://github.com/Ramotion/expanding-collection-android)
 
-ExpandingCollection is a material design card peek/pop controller.
+ExpandingCollection is a material design card peek/pop controller
 <a href="https://github.com/Ramotion/expanding-collection-android">
   
   
@@ -80,7 +80,7 @@ ExpandingCollection is a material design card peek/pop controller.
 
 [Card Slider](https://github.com/Ramotion/cardslider-android)
 
-Cardslider is a material design UI controller that allows you to swipe through cards with pictures and accompanying descriptions.
+Cardslider is a material design UI controller that allows you to swipe through cards with pictures and accompanying descriptions
 <a href="https://github.com/Ramotion/cardslider-android">
   
   
