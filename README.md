@@ -87,6 +87,9 @@ Cardslider is a material design UI controller that allows you to swipe through c
 <img src="https://github.com/Ramotion/android-animation-ui-libraires/blob/master/gifs/card_slider.gif" width="400" height="300" /></a>
 <br><br/>
 
+
+<b>[Get a Free Samsung Clay White Mockup for your next project](https://store.ramotion.com/product/samsung-clay-mockups?utm_source=gthb&utm_medium=special&utm_campaign=android-ui-libraries#demo)</b>
+
 ## Check out other lists of our UI libraries
 
 <a href="https://github.com/Ramotion/swift-ui-animation-components-libraries"> 
@@ -96,6 +99,8 @@ Cardslider is a material design UI controller that allows you to swipe through c
 
 All the Android libraries released under the MIT license.
 See [LICENSE](./LICENSE) for details.
+
+If you use the open-source library in your project, please make sure to credit and backlink to www.ramotion.com
 
 ## Get the Showroom App for Android to give it a try
 Try this UI components and more like this in our Android app. Contact us if interested.
