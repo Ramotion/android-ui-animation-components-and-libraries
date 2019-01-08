@@ -1,117 +1,137 @@
+<a href="https://dev.ramotion.com/?utm_source=gthb&utm_medium=repo&utm_campaign=android-ui-libraries"><img src="https://github.com/Ramotion/folding-cell/blob/master/header.png"></a>
+
 # Android UI Animation Libraries
-A curated list of Android libraries, UI components and custom animations developed by [@Ramotion](https://dev.ramotion.com?utm_source=gthb&utm_medium=repo&utm_campaign=android-ui-animation-components-and-libraries)
 
-## Content
+<p><h3>A curated list of Android libraries, UI components and custom animations developed by Ramotion<h3><p>
+ </br>
 
-[Navigation Toolbar](https://github.com/Ramotion/navigation-toolbar-android)
-
-A slide-modeled UI navigation controller 
-<a href="https://github.com/Ramotion/navigation-toolbar-android">
-  
-  
-<img src="https://github.com/Ramotion/navigation-toolbar-android/blob/master/Navigation-toolbar.gif" width="400" height="300" /></a>
-<br><br/>
-
-
-[Fluid Slider](https://github.com/Ramotion/fluid-slider-android)
-
-A slider widget with a popup bubble displaying the precise value selected 
-<a href="https://github.com/Ramotion/fluid-slider-android">
-  
-  
-<img src="https://github.com/Ramotion/android-animation-ui-libraires/blob/master/gifs/fluid_slider.gif" width="400" height="300" /></a>
-<br><br/>
-
-[Folding Cell](https://github.com/Ramotion/folding-cell-android)
-
-Material design expanding content cell inspired by folding paper material
 <a href="https://github.com/Ramotion/folding-cell-android">
-  
-  
-<img src="https://github.com/Ramotion/android-animation-ui-libraires/blob/master/gifs/folding_cell.gif" width="400" height="300" /></a>
-<br><br/>
-
-[Garland View](https://github.com/Ramotion/garland-view-android)
-
-Garland View seamlessly transitions between multiple lists of content
-<a href="https://github.com/Ramotion/garland-view-android">
-  
-  
-<img src="https://github.com/Ramotion/android-animation-ui-libraires/blob/master/gifs/garland_view.gif" width="400" height="300" /></a>
-<br><br/>
+<img align="left" src="https://github.com/Ramotion/android-animation-ui-libraires/blob/master/gifs/folding_cell.gif" width="480" height="360" /></a>
+<p><h1 align="left"><a href="https://github.com/Ramotion/folding-cell-android">FOLDING CELL</a></h1></p>
+<h4>Material design expanding content cell inspired by folding paper material</h4>
+<p><h6>Stay tuned for the latest updates:</h6>
+<a href="https://goo.gl/rPFpid" >
+<img src="https://i.imgur.com/ziSqeSo.png/" width="156" height="28"></a></p>
+<h4><a href="https://github.com/Ramotion/folding-cell-android#installation">⚙️ Installation Guide →</a></h4>
+<h4><a href="https://github.com/Ramotion/folding-cell-android#requirements">☑️ Requirements →</a></h4>
+<br></br>
 
 
-
-[Paper Onboarding](https://github.com/Ramotion/paper-onboarding-android)
-
-PaperOnboarding is a material design slider.
 <a href="https://github.com/Ramotion/paper-onboarding-android">
-  
-  
-<img src="https://github.com/Ramotion/android-animation-ui-libraires/blob/master/gifs/paper_onboarding.gif" width="400" height="300" /></a>
-<br><br/>
+<img align="left" src="https://github.com/Ramotion/android-animation-ui-libraires/blob/master/gifs/paper_onboarding.gif" width="480" height="360" /></a>
+<p><h1 align="left"><a href="https://github.com/Ramotion/paper-onboarding-android">PAPER ONBOARDING</a></h1></p>
+<h4>PaperOnboarding is a material design slider.</h4>
+<p><h6>Stay tuned for the latest updates:</h6>
+<a href="https://goo.gl/rPFpid" >
+<img src="https://i.imgur.com/ziSqeSo.png/" width="156" height="28"></a></p>
+<h4><a href="https://github.com/Ramotion/paper-onboarding-android#installation">⚙️ Installation Guide →</a></h4>
+<h4><a href="https://github.com/Ramotion/paper-onboarding-android#requirements">☑️ Requirements →</a></h4>
+<br></br>
 
-[Direct Select](https://github.com/Ramotion/direct-select-android)
 
-A selection widget with an ethereal, full-screen modal popup displaying the available choices when the widget is interact with
-<a href="https://github.com/Ramotion/direct-select-android">
-  
-  
-<img src="https://github.com/Ramotion/android-animation-ui-libraires/blob/master/gifs/direct_select.gif" width="400" height="300" /></a>
-<br><br/>
-
-[Circle Menu](https://github.com/Ramotion/circle-menu-android)
-
-A simple, elegant UI menu with a circular layout and material design animations
 <a href="https://github.com/Ramotion/circle-menu-android">
-  
-  
-<img src="https://github.com/Ramotion/android-animation-ui-libraires/blob/master/gifs/circle_menu.gif" width="400" height="300" /></a>
-<br><br/>
+<img align="left" src="https://github.com/Ramotion/android-animation-ui-libraires/blob/master/gifs/circle_menu.gif" width="480" height="360" /></a>
+<p><h1 align="left"><a href="https://github.com/Ramotion/circle-menu-android">CIRCLE MENU</a></h1></p>
+<h4>A simple, elegant UI menu with a circular layout and material design animations</h4>
+<p><h6>Stay tuned for the latest updates:</h6>
+<a href="https://goo.gl/rPFpid" >
+<img src="https://i.imgur.com/ziSqeSo.png/" width="156" height="28"></a></p>
+<h4><a href="https://github.com/Ramotion/circle-menu-android#installation">⚙️ Installation Guide →</a></h4>
+<h4><a href="https://github.com/Ramotion/circle-menu-android#requirements">☑️ Requirements →</a></h4>
+<br></br>
 
-[Expanding Collection](https://github.com/Ramotion/expanding-collection-android)
 
-ExpandingCollection is a material design card peek/pop controller
-<a href="https://github.com/Ramotion/expanding-collection-android">
-  
-  
-<img src="https://github.com/Ramotion/android-animation-ui-libraires/blob/master/gifs/expanding_collection.gif" width="400" height="300" /></a>
-<br><br/>
+<a href="https://github.com/Ramotion/direct-select-android">
+<img align="left" src="https://github.com/Ramotion/android-animation-ui-libraires/blob/master/gifs/direct_select.gif" width="480" height="360" /></a>
+<p><h1 align="left"><a href="https://github.com/Ramotion/direct-select-android">DIRECT SELECT</a></h1></p>
+<h4>A selection widget with an ethereal, full-screen modal popup displaying the available choices when the widget is interact with</h4>
+<p><h6>Stay tuned for the latest updates:</h6>
+<a href="https://goo.gl/rPFpid" >
+<img src="https://i.imgur.com/ziSqeSo.png/" width="156" height="28"></a></p>
+<h4><a href="https://github.com/Ramotion/direct-select-android#installation">⚙️ Installation Guide →</a></h4>
+<h4><a href="https://github.com/Ramotion/direct-select-android#requirements">☑️ Requirements →</a></h4>
+<br></br>
 
-[Card Slider](https://github.com/Ramotion/cardslider-android)
 
-Cardslider is a material design UI controller that allows you to swipe through cards with pictures and accompanying descriptions
 <a href="https://github.com/Ramotion/cardslider-android">
-  
-  
-<img src="https://github.com/Ramotion/android-animation-ui-libraires/blob/master/gifs/card_slider.gif" width="400" height="300" /></a>
-<br><br/>
+<img align="left" src="https://github.com/Ramotion/android-animation-ui-libraires/blob/master/gifs/card_slider.gif" width="480" height="360" /></a>
+<p><h1 align="left"><a href="https://github.com/Ramotion/cardslider-android">CARDSLIDER ANDROID</a></h1></p>
+<h4>Material design UI controller that allows you to swipe through cards with pictures and accompanying descriptions</h4>
+<p><h6>Stay tuned for the latest updates:</h6>
+<a href="https://goo.gl/rPFpid" >
+<img src="https://i.imgur.com/ziSqeSo.png/" width="156" height="28"></a></p>
+<h4><a href="https://github.com/Ramotion/cardslider-android#installation">⚙️ Installation Guide →</a></h4>
+<h4><a href="https://github.com/Ramotion/cardslider-android#requirements">☑️ Requirements →</a></h4>
+<br></br>
 
 
-<b>[Get a Free Samsung Clay White Mockup for your next project](https://store.ramotion.com/product/samsung-clay-mockups?utm_source=gthb&utm_medium=special&utm_campaign=android-ui-libraries#demo)</b>
+<a href="https://github.com/Ramotion/expanding-collection-android">
+<img align="left" src="https://github.com/Ramotion/android-animation-ui-libraires/blob/master/gifs/expanding_collection.gif" width="480" height="360" /></a>
+<p><h1 align="left"><a href="https://github.com/Ramotion/expanding-collection-android">EXPANDING COLLECTION</a></h1></p>
+<h4>ExpandingCollection is a material design card peek/pop controller</h4>
+<p><h6>Stay tuned for the latest updates:</h6>
+<a href="https://goo.gl/rPFpid" >
+<img src="https://i.imgur.com/ziSqeSo.png/" width="156" height="28"></a></p>
+<h4><a href="https://github.com/Ramotion/expanding-collection-android#installation">⚙️ Installation Guide →</a></h4>
+<h4><a href="https://github.com/Ramotion/expanding-collection-android#requirements">☑️ Requirements →</a></h4>
+<br></br>
 
-## Check out other lists of our UI libraries
+
+<a href="https://github.com/Ramotion/garland-view-android">
+<img align="left" src="https://github.com/Ramotion/android-animation-ui-libraires/blob/master/gifs/garland_view.gif" width="480" height="360" /></a>
+<p><h1 align="left"><a href="https://github.com/Ramotion/garland-view-android">GARLAND VIEW</a></h1></p>
+<h4>Garland View seamlessly transitions between multiple lists of content</h4>
+<p><h6>Stay tuned for the latest updates:</h6>
+<a href="https://goo.gl/rPFpid" >
+<img src="https://i.imgur.com/ziSqeSo.png/" width="156" height="28"></a></p>
+<h4><a href="https://github.com/Ramotion/garland-view-android#installation">⚙️ Installation Guide →</a></h4>
+<h4><a href="https://github.com/Ramotion/garland-view-android#requirements">☑️ Requirements →</a></h4>
+<br></br>
+
+
+<a href="https://github.com/Ramotion/fluid-slider-android">
+<img align="left" src="https://github.com/Ramotion/android-animation-ui-libraires/blob/master/gifs/fluid_slider.gif" width="480" height="360" /></a>
+<p><h1 align="left"><a href="https://github.com/Ramotion/fluid-slider-android">FLUID SLIDER</a></h1></p>
+<h4>A slider widget with a popup bubble displaying the precise value selected</h4>
+<p><h6>Stay tuned for the latest updates:</h6>
+<a href="https://goo.gl/rPFpid" >
+<img src="https://i.imgur.com/ziSqeSo.png/" width="156" height="28"></a></p>
+<h4><a href="https://github.com/Ramotion/fluid-slider-android#installation">⚙️ Installation Guide →</a></h4>
+<h4><a href="https://github.com/Ramotion/fluid-slider-android#requirements">☑️ Requirements →</a></h4>
+<br></br>
+
+
+<a href="https://github.com/Ramotion/navigation-toolbar-android">
+<img align="left" src="https://github.com/Ramotion/navigation-toolbar-android/blob/master/Navigation-toolbar.gif" width="480" height="360" /></a>
+<p><h1 align="left"><a href="https://github.com/Ramotion/navigation-toolbar-android">NAVIGATION TOOLBAR</a></h1></p>
+<h4>A slide-modeled UI navigation controller </h4>
+<p><h6>Stay tuned for the latest updates:</h6>
+<a href="https://goo.gl/rPFpid" >
+<img src="https://i.imgur.com/ziSqeSo.png/" width="156" height="28"></a></p>
+<h4><a href="https://github.com/Ramotion/navigation-toolbar-android#installation">⚙️ Installation Guide →</a></h4>
+<h4><a href="https://github.com/Ramotion/navigation-toolbar-android#requirements">☑️ Requirements →</a></h4>
+<br></br>
+
+
+## 🗂 Check out other lists of our UI libraries
 
 <a href="https://github.com/Ramotion/swift-ui-animation-components-libraries"> 
 <img src="https://github.com/Ramotion/android-ui-animation-components-libraries/blob/master/gifs/swift.png" width="178" height="81"></a>
 
-## Licence
+## 📄 License
 
-All the Android libraries released under the MIT license.
+All Android libraries are released under the MIT license.
 See [LICENSE](./LICENSE) for details.
 
 If you use the open-source library in your project, please make sure to credit and backlink to www.ramotion.com
 
-## Get the Showroom App for Android to give it a try
-Try this UI components and more like this in our Android app. Contact us if interested.
+## 📱 Get the Showroom App for iOS to give it a try
+Try these UI components and more like this in our iOS app. Contact us if interested.
 
 <a href="https://play.google.com/store/apps/details?id=com.ramotion.showroom" >
 <img src="https://github.com/Ramotion/android-ui-animation-components-libraries/blob/master/gifs/google_badge.png" width="114" height="34"></a>
 
 <a href="https://dev.ramotion.com?utm_source=gthb&utm_medium=repo&utm_campaign=android-ui-animation-components-and-libraries">
 <img src="https://github.com/ramotion/gliding-collection/raw/master/contact_our_team@2x.png" width="187" height="34"></a>
-
-## Follow us for the latest updates:<br>
-
-<a href="https://goo.gl/rPFpid" >
-<img src="https://i.imgur.com/ziSqeSo.png/" width="156" height="28"></a>
+<br>
+<h6><a href="https://store.ramotion.com/product/samsung-clay-mockups?utm_source=gthb&utm_medium=special&utm_campaign=android-ui-libraries#demo">Get Free Samsung Mockup For your project →</a></h6>
