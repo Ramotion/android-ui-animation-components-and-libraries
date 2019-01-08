@@ -20,7 +20,7 @@
 <a href="https://github.com/Ramotion/paper-onboarding-android">
 <img align="left" src="https://github.com/Ramotion/android-animation-ui-libraires/blob/master/gifs/paper_onboarding.gif" width="480" height="360" /></a>
 <p><h1 align="left"><a href="https://github.com/Ramotion/paper-onboarding-android">PAPER ONBOARDING</a></h1></p>
-<h4>PaperOnboarding is a material design slider.</h4>
+<h4>Android library Paper Onboarding is a material design UI slider written on Java</h4>
 <p><h6>Stay tuned for the latest updates:</h6>
 <a href="https://goo.gl/rPFpid" >
 <img src="https://i.imgur.com/ziSqeSo.png/" width="156" height="28"></a></p>
@@ -44,7 +44,7 @@
 <a href="https://github.com/Ramotion/direct-select-android">
 <img align="left" src="https://github.com/Ramotion/android-animation-ui-libraires/blob/master/gifs/direct_select.gif" width="480" height="360" /></a>
 <p><h1 align="left"><a href="https://github.com/Ramotion/direct-select-android">DIRECT SELECT</a></h1></p>
-<h4>A selection widget with an ethereal, full-screen modal popup displaying the available choices when the widget is interact with</h4>
+<h4>Selection widget with an ethereal, full-screen modal popup displaying the available choices</h4>
 <p><h6>Stay tuned for the latest updates:</h6>
 <a href="https://goo.gl/rPFpid" >
 <img src="https://i.imgur.com/ziSqeSo.png/" width="156" height="28"></a></p>
@@ -56,7 +56,7 @@
 <a href="https://github.com/Ramotion/cardslider-android">
 <img align="left" src="https://github.com/Ramotion/android-animation-ui-libraires/blob/master/gifs/card_slider.gif" width="480" height="360" /></a>
 <p><h1 align="left"><a href="https://github.com/Ramotion/cardslider-android">CARDSLIDER ANDROID</a></h1></p>
-<h4>Material design UI controller that allows you to swipe through cards with pictures and accompanying descriptions</h4>
+<h4>Material design UI controller that allows to swipe through cards with pictures and descriptions</h4>
 <p><h6>Stay tuned for the latest updates:</h6>
 <a href="https://goo.gl/rPFpid" >
 <img src="https://i.imgur.com/ziSqeSo.png/" width="156" height="28"></a></p>
@@ -104,7 +104,7 @@
 <a href="https://github.com/Ramotion/navigation-toolbar-android">
 <img align="left" src="https://github.com/Ramotion/navigation-toolbar-android/blob/master/Navigation-toolbar.gif" width="480" height="360" /></a>
 <p><h1 align="left"><a href="https://github.com/Ramotion/navigation-toolbar-android">NAVIGATION TOOLBAR</a></h1></p>
-<h4>A slide-modeled UI navigation controller </h4>
+<h4>Navigation toolbar is a Kotlin slide-modeled UI navigation controller.</h4>
 <p><h6>Stay tuned for the latest updates:</h6>
 <a href="https://goo.gl/rPFpid" >
 <img src="https://i.imgur.com/ziSqeSo.png/" width="156" height="28"></a></p>
