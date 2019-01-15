@@ -55,7 +55,7 @@
 
 <a href="https://github.com/Ramotion/cardslider-android">
 <img align="left" src="https://github.com/Ramotion/android-animation-ui-libraires/blob/master/gifs/card_slider.gif" width="480" height="360" /></a>
-<p><h1 align="left"><a href="https://github.com/Ramotion/cardslider-android">CARDSLIDER ANDROID</a></h1></p>
+<p><h1 align="left"><a href="https://github.com/Ramotion/cardslider-android">CARDSLIDER</a></h1></p>
 <h4>Material design UI controller that allows to swipe through cards with pictures and descriptions</h4>
 <p><h6>Stay tuned for the latest updates:</h6>
 <a href="https://goo.gl/rPFpid" >
