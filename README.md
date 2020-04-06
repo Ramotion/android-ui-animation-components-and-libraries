@@ -1,4 +1,4 @@
-<a href="https://www.ramotion.com/agency/app-development?utm_source=gthb&utm_medium=repo&utm_campaign=android-ui-libraries"><img src="https://github.com/Ramotion/folding-cell/blob/master/header.png"></a>
+<a href="https://www.ramotion.com/agency/app-development/?utm_source=gthb&utm_medium=repo&utm_campaign=android-ui-libraries"><img src="https://github.com/Ramotion/folding-cell/blob/master/header.png"></a>
 
 # Android UI Animation Libraries
 
@@ -131,6 +131,6 @@ Try these UI components and more like this in our iOS app. Contact us if interes
 <a href="https://play.google.com/store/apps/details?id=com.ramotion.showroom" >
 <img src="https://github.com/Ramotion/android-ui-animation-components-libraries/blob/master/gifs/google_badge.png" width="114" height="34"></a>
 
-<a href="https://www.ramotion.com/agency/app-development?utm_source=gthb&utm_medium=repo&utm_campaign=android-ui-animation-components-and-libraries">
+<a href="https://www.ramotion.com/agency/app-development/?utm_source=gthb&utm_medium=repo&utm_campaign=android-ui-animation-components-and-libraries">
 <img src="https://github.com/ramotion/gliding-collection/raw/master/contact_our_team@2x.png" width="187" height="34"></a>
 <br>
